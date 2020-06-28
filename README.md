@@ -1,2 +1,2 @@
-# MinecraftServerBackups
-Backups for Michael's Minecraft Server
+# MinecraftServerFiles
+Files and scripts for Michael's Minecraft Server
